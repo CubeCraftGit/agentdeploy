@@ -2,7 +2,7 @@ All files will be uploaded for the user to give examples and add thier own imple
 
 # Agent deployment implementation for Bitgent.
 
-### Supports two types of batch inscriptions:
+### Supports multi-social agent:
 
 - see: [https://gist.github.com/bitgentdev/89e7a833a826842bfa7db572f34195fe.js](https://gist.github.com/bitgentdev/89e7a833a826842bfa7db572f34195fe) for more information
 

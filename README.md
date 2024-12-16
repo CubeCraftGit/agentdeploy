@@ -12,5 +12,5 @@ We welcome contributions to this project. If you'd like to contribute, please fo
 
 ## Acknowledgments
 
-We would like to thank Ordiswap for their partnership, implementation information, partnership and funding to make this project happen.
+We would like to thank OrdiSwap for partnership, implementation information, partnership and funding to make this project happen.
 

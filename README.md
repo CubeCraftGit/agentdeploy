@@ -1,1 +1,1 @@
-**Agent deployment implementation for Bitagent.**
+**Agent deployment implementation for Bitgent.**

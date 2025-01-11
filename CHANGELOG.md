@@ -1,33 +1,6 @@
 # Changelog
 
-## [v0.1.6-alpha.1](https://github.com/ai16z/eliza/tree/v0.1.6-alpha.1) (2024-12-13)
-
-[Full Changelog](https://github.com/ai16z/eliza/compare/v0.1.5-alpha.5...v0.1.6-alpha.1)
-
-**Implemented enhancements:**
-
-- Add Venice.ai Model Provider [\#1016](https://github.com/ai16z/eliza/issues/1016)
-- Need to add media file upload for posting tweets with image from imageGenerationPlugin. Currently only discord has this implemented [\#969](https://github.com/ai16z/eliza/issues/969)
-- Script to create core memories for the agent [\#967](https://github.com/ai16z/eliza/issues/967)
-- feat: add hot-reloading for agent dependencies [\#930](https://github.com/ai16z/eliza/issues/930)
-- Improve `dev.sh` Script to Enhance Plugin Development Workflow [\#888](https://github.com/ai16z/eliza/issues/888)
-
-**Fixed bugs:**
-
-- How to set the model class for Anthropic? [\#988](https://github.com/ai16z/eliza/issues/988)
-- Twitter Search Client Broken [\#943](https://github.com/ai16z/eliza/issues/943)
-- Stuck querying when @'ing it in Discord [\#921](https://github.com/ai16z/eliza/issues/921)
-- Error pnpm start - Promise.withResolvers\(\): pdfjs-dist [\#902](https://github.com/ai16z/eliza/issues/902)
-- Running tests on start and dev? [\#893](https://github.com/ai16z/eliza/issues/893)
-- build:  eliza docs build creates 130 files that want to be modified/added to git [\#849](https://github.com/ai16z/eliza/issues/849)
-- EVM Plugin can't run any action [\#735](https://github.com/ai16z/eliza/issues/735)
-- Bug: plugin-solana crash report [\#467](https://github.com/ai16z/eliza/issues/467)
-
-**Closed issues:**
-
-- Issue: Unable to Post Tweets Using Eliza Integration with Twitter via Cookies or OAuth2 [\#901](https://github.com/ai16z/eliza/issues/901)
-
-**Merged pull requests:**
+### Implementation adapter updates 1/11/25
 
 - chore: release develop into main [\#1045](https://github.com/ai16z/eliza/pull/1045) ([odilitime](https://github.com/odilitime))
 - fix: re-enable generateNewTweetLoop / lint fixes [\#1043](https://github.com/ai16z/eliza/pull/1043) ([odilitime](https://github.com/odilitime))

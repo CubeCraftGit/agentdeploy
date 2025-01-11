@@ -1,10 +1,6 @@
 All files will be uploaded for the user to give examples and add thier own implementations if interested.
 
-# Ordigent: Agent deployment implementation.
-
-### Supports multi-social agent:
-
-- see: https://gist.github.com/ordigent/7262442ba5e5e1a1c4ef945bca20ae38 for more information
+# Agent deployment implementation.
 
 ## Contributing
 
@@ -12,5 +8,5 @@ We welcome contributions to this project. If you'd like to contribute, please fo
 
 ## Acknowledgments
 
-We would like to thank OrdiSwap for partnership, implementation information, partnership and funding to make this project happen.
+We would like to thank MineIDX for partnership, implementation information, partnership and funding to make this project happen.
 
